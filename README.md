@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine learning projects.**
 
-- 🤝 I’m looking for help with **MLOps**
+- 🤝 I’m looking for help with **MLOps**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashraful-alam2k](https://github.com/ashraful-alam2k)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashrafulalam2k/**
 
-- ⚡ Fun fact **I'm a Polyglot ( Human languages :P ). I might speak your one too. Let's find out.**
+- ⚡ Fun fact **I'm a Polyglot (Human languages :P). I might speak your one too. Let's find out.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
