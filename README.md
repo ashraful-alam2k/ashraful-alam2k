@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashraful Alam</h1>
-<h3 align="center">A passionate Machine learning and Infrastructure engineer in London.</h3>
+<h3 align="center">A passionate Cloud engineer with interest in Deep Learning in London.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraful-alam2k&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful-alam2k" /> </p>
 
-- 🔭 I’m currently working on [Multi-domain Learning for Neural Network-Based Equalizers in a Coherent Optical Transmission System: Solving the Flexibility Problem](https://github.com/ashraful-alam2k/Nonlinearity-MDL)
+- 🔭 I recently worked on a project applying Deep Learning on Optical Fiber link [Multi-domain Learning for Neural Network-Based Equalizers in a Coherent Optical Transmission System: Solving the Flexibility Problem](https://github.com/ashraful-alam2k/Nonlinearity-MDL)
 
 - 🌱 I’m currently learning **AWS, Terraform, Ansible Kubernetes and Docker.**
 
