@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Multi-domain Learning for Neural Network-Based Equalizers in a Coherent Optical Transmission System: Solving the Flexibility Problem](https://github.com/ashraful-alam2k/Nonlinearity-MDL)
 
-- 🌱 I’m currently learning **AWS, Kubernetes and Docker.**
+- 🌱 I’m currently learning **AWS, Terraform, Ansible Kubernetes and Docker.**
 
-- 👯 I’m looking to collaborate on **Machine learning projects.**
+- 👯 I’m looking to collaborate on **Cloud/Machine learning projects.**
 
-- 🤝 I’m looking for help with **MLOps**.
+- 🤝 I’m looking for help with **DevOps**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashraful-alam2k](https://github.com/ashraful-alam2k)
 
-- 💬 Ask me about **Deep learning**
+- 💬 Ask me about **Cloud Engineering/Deep learning**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashrafulalam2k/**
 
