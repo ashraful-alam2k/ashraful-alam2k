@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraful-alam2k&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful-alam2k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashraful-alam2k" alt="ashraful-alam2k" /></a> </p>
 - 🔭 I recently worked on a project applying Deep Learning on Optical Fiber link [Multi-domain Learning for Neural Network-Based Equalizers in a Coherent Optical Transmission System: Solving the Flexibility Problem](https://github.com/ashraful-alam2k/Nonlinearity-MDL)
 
 - 👯 I’m looking to collaborate on **Machine Learning or DevOps projects.**
